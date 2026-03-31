@@ -1,7 +1,7 @@
 # NeuroScan AI - Breast Cancer Diagnosis System
 
 **Live Backend:** [https://huggingface.co/spaces/Hassan2007/tumor-diagnosis-backend](https://huggingface.co/spaces/Hassan2007/tumor-diagnosis-backend)  
-**Frontend Deployment:** [https://tumor-diagnosis-frontend.vercel.app)
+**Frontend Deployment:** [https://tumor-diagnosis-frontend.vercel.app/](https://tumor-diagnosis-frontend.vercel.app/)
 
 ---
 
@@ -229,3 +229,7 @@ It is not a medical diagnostic tool.
 
 **Hassan Ahmed** Bioinformatics | Data Science | AI Systems  
 Alexandria, Egypt
+
+- **LinkedIn:** [https://www.linkedin.com/in/hassan-ahmed2007](https://www.linkedin.com/in/hassan-ahmed2007)
+- **Portfolio:** [https://hassan-ahmed-portfolio.vercel.app](https://hassan-ahmed-portfolio.vercel.app)
+- **Email:** hassanahmed07.e9@gmail.com
