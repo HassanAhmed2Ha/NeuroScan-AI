@@ -140,16 +140,10 @@ This made the system usable without removing explainability.
 
 ---
 
-### 5. Prompt Engineering Built the Frontend
+### 5 AI-Assisted UI & Prompt Engineering
+Instead of building the UI manually from scratch I used structured prompt engineering as a productivity tool to accelerate the architectural setup This helped generate the base layout UX flow animation logic and SHAP visualization
 
-Instead of building the UI manually from scratch, I used structured prompt engineering to generate:
-- Layout
-- UX flow
-- Animation logic
-- SHAP visualization
-
-Then refined it manually.  
-The result: a clean, interactive interface that connects directly to the model.
+After generating the foundation I manually refined debugged and integrated the code to ensure it connects flawlessly with the backend and handles edge cases perfectly This approach demonstrates using AI to accelerate development while relying on human engineering for final integration
 
 ---
 
