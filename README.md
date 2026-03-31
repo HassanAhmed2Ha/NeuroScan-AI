@@ -1,7 +1,7 @@
 # NeuroScan AI - Breast Cancer Diagnosis System
 
 **Live Backend:** [https://huggingface.co/spaces/Hassan2007/tumor-diagnosis-backend](https://huggingface.co/spaces/Hassan2007/tumor-diagnosis-backend)  
-**Frontend Deployment:** [Add your Vercel link here]
+**Frontend Deployment:** [https://tumor-diagnosis-frontend.vercel.app/]
 
 ---
 
