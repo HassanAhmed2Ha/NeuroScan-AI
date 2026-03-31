@@ -189,7 +189,7 @@ joblib.dump(my_scaler, 'scaler.pkl')
 
 ## Project Structure
 
-- **Backend** → FastAPI (`APT.py`)
+- **Backend** → FastAPI (`API.py`)
 - **Frontend** → React (`App.jsx`)
 - **Dependencies** → `requirements.txt`
 - **UI Config** → `package.json`
